@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification_OpenActivity_When_Click</string>
+    <string name="channel_name1">Channel 1</string>
+    <string name="channel_description1">This is Channel 1</string>
+</resources>
